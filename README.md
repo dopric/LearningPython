@@ -1,4 +1,4 @@
-# LearningPython
+# Learning 
 
 ## Databases with Python
 ### Sqlite
